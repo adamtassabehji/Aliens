@@ -4,4 +4,6 @@ I've always been deeply fascinated (& freightened) by the possibility of extrate
 
 With the pentagon finally acknowledging UFOs and reporting about 400 encounters, I decided to create a dashboard analyzing occurances in the US.
 
+https://public.tableau.com/app/profile/adam.tassabehji/viz/AT-USUFOSightings/Dashboard
+
 ![aliens](https://user-images.githubusercontent.com/56136026/187028806-04da2713-2315-40e9-8bb8-5808f60e4b80.gif)
